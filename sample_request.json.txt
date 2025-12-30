@@ -1,0 +1,6 @@
+{
+  "student_id": "4001",
+  "name": "Suresh",
+  "department": "CSE",
+  "year": 3
+}
