@@ -18,7 +18,7 @@ Method: POST
 Endpoint: /student-handler
 
 ## Sample Request
-```json
+  json
 {
   "student_id": "4001",
   "name": "Suresh",
@@ -28,6 +28,7 @@ Endpoint: /student-handler
 
 ## Sample Response
 
-```json
+  json
 "Student added successfully"
+
 
